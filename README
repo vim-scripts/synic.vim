@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1897
+
+Based from desert, but with a higher contrast of colors.  The background is always black to make the syntax colors stand out better.  I took special effort to make sure that no color is too bright.  Works great if you're working at the office under good light.
+
+Screenshot at http://www.exaile.org/vim.png
+
+The latest version is the combined 256 color terminal and gvim colorscheme
